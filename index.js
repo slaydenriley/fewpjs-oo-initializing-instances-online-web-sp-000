@@ -19,5 +19,5 @@ class Dinner {
     this.soup = soup;
     this.entree = entree;
     this._dessert = dessert;
-  }
-}
+  };
+};
